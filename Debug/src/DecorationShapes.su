@@ -1,0 +1,12 @@
+DecorationShapes.c:13:6:drawPixel3D	40	static
+DecorationShapes.c:21:6:drawLine3D	80	static
+DecorationShapes.c:32:6:drawLine3D_jaadu	80	static
+DecorationShapes.c:52:6:tree_maker3D	64	static
+DecorationShapes.c:72:6:draw_complete_tree_3d	256	dynamic
+DecorationShapes.c:97:6:drawHands3D	32	static
+DecorationShapes.c:109:6:calculateBranchEnds3D	72	static
+DecorationShapes.c:134:6:branchReduction3D	32	static
+DecorationShapes.c:141:9:branchExtension3D	48	static
+DecorationShapes.c:151:6:preProcessing3D	24	static
+DecorationShapes.c:159:6:Rotation3D	40	static
+DecorationShapes.c:167:6:postProcessing3D	24	static
